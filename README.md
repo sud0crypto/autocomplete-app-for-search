@@ -1,4 +1,4 @@
-# Responsive Autocomplete Search App
+# Autocomplete Search App
 A customizable templated application for quick autocomplete searches against a JSON file using JavaScript and Regex. 
 
 ## Download
